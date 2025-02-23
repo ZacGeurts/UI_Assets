@@ -1,3 +1,5 @@
+#THIS IS NOT FLATUX
+
 FlatUX Theme for RetroArch & Lakka
 ====================
 
