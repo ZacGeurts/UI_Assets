@@ -1,6 +1,7 @@
 # THIS IS NOT FLATUX
 # UI_Assets
 Retroarch icon collection for the UI
+For now do not get the releases, click the green code button and download as ZIP.
 
 Went with realistic.
 I may be biased but I think mine is the best :D
