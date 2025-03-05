@@ -16,7 +16,7 @@ I do not know how yet to just add a new folder to the assets and periodically up
 <BR />
 I recommend downloading, extract, open the folder and hold CTRL key and just click to select all the ones you like, then right click copy, and paste the ones you like in your current theme folder and overwrite. This is version pre 1.0 so that is why the install is junk.
 
-#If you use the update assets in the downloader you will revert your ui.<BR /><BR />
+# If you use the update assets in the downloader you will revert your ui.<BR /><BR />
 A recommendation for background music, convert to ogg. I cannot provide.
 Stargazer    (2:56)
 the Lemming Shepherds
