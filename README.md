@@ -18,6 +18,7 @@ I recommend downloading, extract, open the folder and hold CTRL key and just cli
 
 # If you use the update assets in the downloader you will revert your ui.<BR /><BR />
 A recommendation for background music, convert to ogg. I cannot provide, site is misleading.<BR />
+I reduced volume to 25% when converting.<BR />
 [Free Music Public Domain](https://www.freemusicpublicdomain.com/royalty-free-symphony-music)
 Stargazer    (2:56)
 the Lemming Shepherds
