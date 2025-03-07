@@ -16,8 +16,7 @@ I do not know how yet to just add a new folder to the assets and periodically up
 <BR />
 I recommend downloading, extract, open the folder and hold CTRL key and just click to select all the ones you like, then right click copy, and paste the ones you like over/into a theme folder and overwrite. I recommend overwriting a theme not your current main one.
 # If you use the update assets in the downloader you will revert your ui.<BR /><BR />
-A recommendation for background music, convert and rename to assets/sound/bgm.ogg. I cannot provide, site is misleading "Public Domain".<BR />
-I reduced volume to 25% when converting.<BR />
+A recommendation for background music, convert and rename to assets/sound/bgm.ogg. I cannot provide, site is misleading "Public Domain". Reduced volume by 75% to 25% when converting.<BR />
 [Free Music Public Domain](https://www.freemusicpublicdomain.com/royalty-free-symphony-music)
 Stargazer    (2:56)
 the Lemming Shepherds
