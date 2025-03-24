@@ -13,6 +13,7 @@ e. Exceptions and Limitations means fair use, fair dealing, and/or<BR />
 Went with realistic. Not all images are from me yet. WIP<BR />
 I may be biased but I think mine is the best :D<BR />
 Replacing images from xmb\flatux and others so not all are mine yet. WIP<BR />
+I have avoid locations where copyright is enforced. Generally images of the packaging edited off the box, ebay postings, or sites that claim free for commercial use. This is not commercial.<BR />
 Replace them all if you want and do what you want with it.<BR />
 I do not know how yet to just add a new folder to the assets and periodically update when taking a break.<BR />
 <BR />
