@@ -10,8 +10,7 @@ Creative Commons applies to the FlatUX images that were not yet replaced.<BR />
 <BR />
 Went with realistic. Not all images are from me yet. WIP<BR />
 Delete or replace bg.png if you do not like the background or have a different layout.<BR />
-I like titles over screentshot on the right and boxart as the logo.<BR />
-I may be biased but I think mine is the best :D<BR />
+I like titles above screentshot on the right and boxart as the logo.<BR />
 Replacing images from xmb\flatux and others so not all are mine yet. WIP<BR />
 I have avoided image locations where copyright is enforced. Generally images off the packaging, edited off the box, ebay postings, or sites that claim free for commercial use. This is not commercial.<BR />
 Replace them all if you want and do what you want with it.<BR />
