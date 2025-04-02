@@ -2,7 +2,7 @@
 # UI_Assets
 If you use the update assets in the downloader you MAY REVERT your ui.<BR />
 By the end I intend to make this a seperate theme.<BR /><BR />
-Retroarch icon collection for the UI (Creative Commons)<BR />
+Retroarch icon collection for the UI<BR />
 For now do not get the releases, click the green code button and download as ZIP.<BR />
 Releases tend to be behind the commits and I am just adding more content icons.<BR />
 <BR />
