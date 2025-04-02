@@ -6,9 +6,7 @@ Retroarch icon collection for the UI (Creative Commons)<BR />
 For now do not get the releases, click the green code button and download as ZIP.<BR />
 Releases tend to be behind the commits and I am just adding more content icons.<BR />
 <BR />
-e. Exceptions and Limitations means fair use, fair dealing, and/or<BR />
-     any other exception or limitation to Copyright and Similar Rights<BR />
-     that applies to Your use of the Licensed Material.<BR />
+Creative Commons applies to the FlatUX images that were not yet replaced.<BR />
 <BR />
 Went with realistic. Not all images are from me yet. WIP<BR />
 Delete or replace bg.png if you do not like the background or have a different layout.<BR />
